@@ -71,10 +71,10 @@ Navigate to `http://localhost:5000` in your browser.
 4. JavaScript dynamically injects the movie cards into the UI.
 
 ---
+<img width="1440" height="821" alt="Screenshot 2025-07-28 at 8 58 57 PM" src="https://github.com/user-attachments/assets/33d0609e-5f7f-4692-a8bc-c03c336c9c02" />
 
-## 📷 UI Preview
-<img width="1440" height="820" alt="Screenshot 2025-07-28 at 8 57 02 PM" src="https://github.com/user-attachments/assets/5ac847f0-04ea-4cba-b893-27b19b90dec0" />
 
+---
 
 <img width="1440" height="823" alt="Screenshot 2025-07-28 at 8 58 02 PM" src="https://github.com/user-attachments/assets/c8993355-7b2d-40e5-a30b-b1c9e3416f14" />
 
