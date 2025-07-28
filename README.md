@@ -1,4 +1,5 @@
 
+
 # 🎬 Movie Recommender System
 
 A sleek, full-stack movie recommendation web application that lets users select a movie they like and get visually appealing suggestions for similar movies. Powered by content-based filtering and a modern, responsive UI built with Tailwind CSS and Flask.
@@ -23,7 +24,6 @@ A sleek, full-stack movie recommendation web application that lets users select 
 | JavaScript (vanilla) | Python        | Cosine Similarity    |
 
 ---
-
 
 ## 🚀 Getting Started
 
@@ -71,12 +71,13 @@ Navigate to `http://localhost:5000` in your browser.
 4. JavaScript dynamically injects the movie cards into the UI.
 
 ---
-<img width="1440" height="821" alt="Screenshot 2025-07-28 at 8 58 57 PM" src="https://github.com/user-attachments/assets/33d0609e-5f7f-4692-a8bc-c03c336c9c02" />
 
+## 📷 UI Preview
+
+<img width="1440" height="821" alt="Screenshot 2025-07-28 at 8 58 57 PM" src="https://github.com/user-attachments/assets/2d3193a1-a128-4001-9cd7-4d8619e4c82d" />
 
 ---
-
-<img width="1440" height="823" alt="Screenshot 2025-07-28 at 8 58 02 PM" src="https://github.com/user-attachments/assets/c8993355-7b2d-40e5-a30b-b1c9e3416f14" />
+<img width="1439" height="820" alt="Screenshot 2025-07-28 at 9 03 15 PM" src="https://github.com/user-attachments/assets/0cea2060-91f1-46d0-b134-32b6b043eb22" />
 
 
 ## 🧠 Model Details
@@ -88,6 +89,3 @@ Navigate to `http://localhost:5000` in your browser.
 Training logic and vector generation is handled inside `Recommendation_Model.ipynb`.
 
 ---
-
-
-
